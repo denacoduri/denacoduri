@@ -1,6 +1,6 @@
 ![Banner](https://user-images.githubusercontent.com/84096042/137606063-660a7063-de2a-48c3-9ebe-400ed642ccf2.png)
 
-## 👋 Hi, I’m Dena. 
+## Hi, I’m Dena. 👋  
 
 ### 💁🏻‍♀️ About Me
 I'm a data analyst with a background in math education. 
@@ -13,6 +13,7 @@ I also moonlight as a yoga and meditation instructor.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+![SQL](https://img.shields.io/badge/SQL-217346?style=for-the-badge&logo=microsoft-sql&logoColor=white) 
  
 ### 📊 My Projects
 
