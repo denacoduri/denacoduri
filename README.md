@@ -19,17 +19,13 @@ I also moonlight as a yoga and meditation instructor.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denacoduri&repo=murderdata)](https://github.com/denacoduri/murderdata)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denacoduri&repo=rockbuster)](https://github.com/denacoduri/rockbuster)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denacoduri&repo=silvertone)](https://github.com/denacoduri/silvertone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denacoduri&repo=instacart)](https://github.com/denacoduri/instacart)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denacoduri&repo=gameco)](https://github.com/denacoduri/gameco)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denacoduri&repo=fluseason)](https://github.com/denacoduri/fluseason)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denacoduri&repo=healthco)](https://github.com/denacoduri/healthco)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denacoduri&repo=silvertone)](https://github.com/denacoduri/silvertone)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denacoduri&repo=instacart)](https://github.com/denacoduri/instacart)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denacoduri&repo=gameco)](https://github.com/denacoduri/gameco)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denacoduri&repo=fluseason)](https://github.com/denacoduri/fluseason)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denacoduri&repo=rockbuster)](https://github.com/denacoduri/rockbuster)
 
 ### 🤓 Currently Learning
 - Working through the [#66dayofdata](https://www.youtube.com/watch?v=qV_AlRwhI3I) challenge proposed by Ken Jee
