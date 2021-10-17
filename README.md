@@ -2,7 +2,22 @@
 
 
 
-### Hi, I'm Dena! 👋
+### Hi, I'm Dena! 👋 Check out some of my projects below:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denacoduri&repo=murderdata)](https://github.com/denacoduri/murderdata)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denacoduri&repo=healthco)](https://github.com/denacoduri/healthco)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denacoduri&repo=silvertone)](https://github.com/denacoduri/silvertone)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denacoduri&repo=instacart)](https://github.com/denacoduri/instacart)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denacoduri&repo=gameco)](https://github.com/denacoduri/gameco)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denacoduri&repo=fluseason)](https://github.com/denacoduri/fluseason)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denacoduri&repo=rockbuster)](https://github.com/denacoduri/rockbuster)
+
 
 <!--
 **denacoduri/denacoduri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
