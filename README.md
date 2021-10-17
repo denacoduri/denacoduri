@@ -1,4 +1,8 @@
-### Hi there 👋
+![Banner](https://user-images.githubusercontent.com/84096042/137606063-660a7063-de2a-48c3-9ebe-400ed642ccf2.png)
+
+
+
+### Hi, I'm Dena! 👋
 
 <!--
 **denacoduri/denacoduri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
