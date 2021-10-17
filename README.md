@@ -24,9 +24,10 @@ I also moonlight as a yoga and meditation instructor.
 ![Gmail](https://img.shields.io/badge/denacoduri@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
 ![Discord](https://img.shields.io/badge/Discord_denacoduri_1398-7289DA?style=for-the-badge&logo=discord&logoColor=white) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/denacoduri/) 
+[![Facebook](https://img.shields.io/badge/facebook-%2314354C.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/denacoduri/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/denacoduri)
-[![Spotify](https://img.shields.io/badge/spotify-%2314354C.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://www.spotify.com/willowny/) 
-[![Facebook](https://img.shields.io/badge/facebook-%2314354C.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://www.facebook.com/denacoduri/) 
+[![Spotify](https://img.shields.io/badge/spotify-%2314354C.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/willowny?si=00096f3cc41e49e1) 
+
 
 ### 📊 My Projects
 
