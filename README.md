@@ -34,7 +34,7 @@ I also moonlight as a [yoga and meditation instructor](https://www.denacoduri.co
 
 ### 🦄 Fun Facts
 - I've been practicing yoga for 14 years, and teaching yoga for 7 years.
-- I'm a CrossFit and Aerial Arts addict.
+- I stay fit through CrossFit and Aerial Arts.
 - I have two pet bunnies.
 
 ### 🤝 Connect With Me
