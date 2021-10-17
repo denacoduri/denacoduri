@@ -36,18 +36,11 @@ I also moonlight as a yoga and meditation instructor.
 - Reading [How to Lie with Statistics](https://www.amazon.com/dp/0393310728?psc=1&ref=ppx_yo2_dt_b_product_details) by Darrell Huff
 
 ### 🧚‍♀️ Fun Facts
-- I've been practicing yoga for 14 years, and teaching for 7 years
-
-![IMG_0159](https://user-images.githubusercontent.com/84096042/137608013-3be28f5f-f31b-4ec7-9d28-51ed95493be4.jpg)
-
+- I've been practicing yoga for 14 years, and teaching yoga for 7 years
 - I'm a CrossFit and Aerial Arts addict
-
-![IMG_2170](https://user-images.githubusercontent.com/84096042/137608065-30df678f-ac0a-4b38-bc8b-cf7a98c66b79.jpg)
-
 - I have two pet bunnies
 
-![IMG_2946](https://user-images.githubusercontent.com/84096042/137608286-61916d4f-9cd0-4760-a0d0-c0e3f423e372.jpg)
-
+![IMG_0163](https://user-images.githubusercontent.com/84096042/137608723-a30516bf-a637-4515-a296-e7ea79cf0eb4.jpg)
 
 ### 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denacoduri/)
@@ -58,6 +51,9 @@ I also moonlight as a yoga and meditation instructor.
 [![Facebook](https://img.shields.io/badge/facebook-%2314354C.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/denacoduri/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/denacoduri)
 [![Spotify](https://img.shields.io/badge/spotify-%2314354C.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/willowny?si=00096f3cc41e49e1)
+
+
+
 
 
 <!--
