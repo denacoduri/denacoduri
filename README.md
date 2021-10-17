@@ -4,7 +4,7 @@
 
 ### 💁🏻‍♀️ About Me
 I'm a data analyst with a background in math education. 
-I also moonlight as a yoga and meditation instructor.
+I also moonlight as a [yoga and meditation instructor](https://www.denacoduri.com/yoga).
 
 ### 🤖 My Skills
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
@@ -41,13 +41,13 @@ I also moonlight as a yoga and meditation instructor.
 
 ### 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denacoduri/)
-[![Tableau Public](https://img.shields.io/badge/Tableau_Public-%232C2D72.svg?style=for-the-badge&logo=Tableau&&logoColor=white)](https://public.tableau.com/app/profile/denacoduri)
-![Gmail](https://img.shields.io/badge/denacoduri@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
-![Discord](https://img.shields.io/badge/Discord_denacoduri_1398-7289DA?style=for-the-badge&logo=discord&logoColor=white) 
+[![Tableau Public](https://img.shields.io/badge/Tableau_Public-%232C2D72.svg?style=for-the-badge&logo=Tableau&&logoColor=white)](https://public.tableau.com/app/profile/denacoduri) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/denacoduri/) 
 [![Facebook](https://img.shields.io/badge/facebook-%2314354C.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/denacoduri/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/denacoduri)
 [![Spotify](https://img.shields.io/badge/spotify-%2314354C.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/willowny?si=00096f3cc41e49e1)
+![Gmail](https://img.shields.io/badge/denacoduri@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord_denacoduri_1398-7289DA?style=for-the-badge&logo=discord&logoColor=white) 
 
 
 
