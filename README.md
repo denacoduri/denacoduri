@@ -32,12 +32,6 @@ I also moonlight as a [yoga and meditation instructor](https://www.denacoduri.co
 - Enrolled in the [Serious SQL](https://www.datawithdanny.com/courses/serious-sql) program with Danny Ma
 - Reading [How to Lie with Statistics](https://www.amazon.com/dp/0393310728?psc=1&ref=ppx_yo2_dt_b_product_details) by Darrell Huff
 
-### 🦄 Fun Facts
-- I've been practicing yoga for 14 years, and teaching yoga for 7 years.
-- I'm a CrossFit and Aerial Arts addict.
-- I have two pet bunnies.
-
-![IMG_0163](https://user-images.githubusercontent.com/84096042/137608723-a30516bf-a637-4515-a296-e7ea79cf0eb4.jpg)
 
 ### 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denacoduri/)
