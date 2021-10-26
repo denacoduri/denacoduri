@@ -30,12 +30,12 @@ I also moonlight as a [yoga and meditation instructor](https://www.denacoduri.co
 ### 🤓 Currently Learning
 - Working through the [#66dayofdata](https://www.youtube.com/watch?v=qV_AlRwhI3I) challenge proposed by Ken Jee
 - Enrolled in the [Serious SQL](https://www.datawithdanny.com/courses/serious-sql) program with Danny Ma
-- Reading [How to Lie with Statistics](https://www.amazon.com/dp/0393310728?psc=1&ref=ppx_yo2_dt_b_product_details) by Darrell Huff
+- Reading [Survey Questions- Handcrafting the Standard Questionairre](https://www.amazon.com/Survey-Questions-Handcrafting-Standardized-Questionnaire/dp/0803927436) by Jean M. Converse and Stanley Presser
 
 ### 🦄 Fun Facts
 - I've been practicing yoga for 14 years, and teaching yoga for 7 years.
-- I stay fit through CrossFit and the aerial arts.
-- I have two pet bunnies.
+- I stay in shape through CrossFit and the aerial arts.
+- I have two pet rabbits, both adopted from animal shelters.
 
 ### 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denacoduri/)
